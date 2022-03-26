@@ -18,10 +18,10 @@ If option 2 is better, we output to the user "Option 2 is better"
     return 100*10
 
 # Option 2
-total = 1
+amount = 1
 list1 = []
 loop 10 times
-    add total to list1
+    add amount to list1
     total *= 2
 sum = total of all items in loop
 return the sum
